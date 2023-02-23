@@ -1,0 +1,15 @@
+[package]
+name = "tuners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shane Stephenson <stephenson.shane.a@gmail.com>"]
+readme = "README.md"
+description = "Crate to tuner hyperparameters for Python predictive models using resampling methods."
+homepage = "https://github.com/UnsafeOats/tune-rs"
+repository = "https://github.com/UnsafeOats/tune-rs"
+license = "MIT"
+keywords = ["ml", "python", "tuning", "resample"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
